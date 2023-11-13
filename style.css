@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    color: red;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    outline: none;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ li {
+    margin: 10px 0;
+   
+} 
+
+button {
+    color: red;
+    margin-top: 10px;
+    cursor: pointer;
+}
